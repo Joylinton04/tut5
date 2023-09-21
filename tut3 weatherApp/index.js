@@ -1,5 +1,5 @@
 const apiUrl = "https://api.openweathermap.org/data/2.5/weather?&units=metric&q="
-const apiKey = "09cb23b7f8638a33ff2cdf837b12b27f"
+const apiKey = "your api key here"
 const temp = document.querySelector('.temp')
 const city = document.querySelector('.city')
 const humidity = document.querySelector('.humidity')
